@@ -9,7 +9,7 @@
   <body class="bg-neutral-950 text-white font-sans flex flex-col items-center justify-center min-h-screen px-4">
 
     <!-- Logo -->
-    <img src="A_logo_design_for_the_luxury_underwear_brand_&quot;Raiz.png" alt="Logo Raiz Íntimus" class="w-48 mb-6 animate-fade-in"/>
+    <img src="C:\Users\darlan.lima\Downloads\repository-open-graph-template.png" alt="Logo Raiz Íntimus" class="w-48 mb-6 animate-fade-in"/>
 
     <!-- Slogan -->
     <h1 class="text-4xl font-bold tracking-wide text-center animate-fade-in">Essência. Conforto. Poder.</h1>
