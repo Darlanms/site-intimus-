@@ -9,7 +9,7 @@
   <body class="bg-neutral-950 text-white font-sans flex flex-col items-center justify-center min-h-screen px-4">
 
     <!-- Logo -->
-    <img src="C:\Users\darlan.lima\Downloads\repository-open-graph-template.png" alt="Logo Raiz Íntimus" class="w-48 mb-6 animate-fade-in"/>
+    <img src=""T:\darlan.lima\gpt\ChatGPT Image 16 de abr. de 2025, 09_24_47.png"" alt="Logo Raiz Íntimus" class="w-48 mb-6 animate-fade-in"/>
 
     <!-- Slogan -->
     <h1 class="text-4xl font-bold tracking-wide text-center animate-fade-in">Essência. Conforto. Poder.</h1>
