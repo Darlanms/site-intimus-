@@ -27,11 +27,11 @@
       </div>
       <div>
         <h2 class="text-xl font-semibold mb-2">🕰️ Estilo Atemporal</h2>
-        <p class="text-neutral-400">Designs retrô com atitude contemporânea.</p>
+        <p class="text-neutral-400">Designs sofisticados com atitude contemporânea.</p>
       </div>
       <div>
         <h2 class="text-xl font-semibold mb-2">🇧🇷 Identidade Nacional</h2>
-        <p class="text-neutral-400">Raízes brasileiras em cada costura e detalhe.</p>
+        <p class="text-neutral-400">Produtos de 1ª linha | qualidade permanece a mesma em cada costura e detalhe.</p>
       </div>
     </div>
 
